@@ -13,7 +13,7 @@ usage() {
     echo "Options:"
     echo "  --fast      Quick scan (ports 1-1000, basic scripts)"
     echo "  --deep      Comprehensive scan (all ports, extended scripts)"
-    echo "  -o <dir>    Specify output directory (default: scan_results_<timestamp>)"
+    echo "  -o <dir>    Specify output directory (default: scan_results_<timestamp>)" 
     exit 1
 }
 
