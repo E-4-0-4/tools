@@ -16,7 +16,7 @@ blue) echo -e "${BLUE}$2${NC}";;
 
 AP_SSID="FreeWiFi_Guest"
 INTERFACE=""
-AP_IP="192.168.1.1"
+AP_IP="192.168.1.1"      
 PORT=8080     
 CAPTURED=()       
 
