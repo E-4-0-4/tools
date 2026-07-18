@@ -18,7 +18,7 @@ AP_SSID="FreeWiFi_Guest"
 INTERFACE=""
 AP_IP="192.168.1.1"
 PORT=8080     
-CAPTURED=()
+CAPTURED=()       
 
 banner() {
     clear
