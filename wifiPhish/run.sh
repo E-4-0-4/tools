@@ -19,7 +19,7 @@ INTERFACE=""
 AP_IP="192.168.1.1"      
 PORT=8080     
 CAPTURED=()       
-
+    
 banner() {
     clear
     echo -e "${BLUE}"
